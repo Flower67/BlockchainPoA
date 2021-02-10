@@ -8,4 +8,4 @@ In order to access the 'Roots' custom node, please follow the instructions below
 5. Input noEl@20 as the password
 6. Send ETH to the node2 account using this address: 0x8294114Baf553d1Bb66a2d10f175727958A878C1
 7. Success! You've completed a transaction.
-![transaction_complete](Screenshots.TX_Status.png)
+![transaction_complete](Screenshots/TX_Status.png)
